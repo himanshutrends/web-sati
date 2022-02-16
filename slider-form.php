@@ -5,7 +5,7 @@ $studyLevel = $_POST['slider-study-level'];
 $course = $_POST['slider-course'];
  
 $to = 'your@domain.com';
-$subject = 'You Have New Subscriber from Universo!';
+$subject = 'You Have New Subscriber from S.A.T.I!';
 
 $body = "";
 $body .= "Name: ";

@@ -2,7 +2,7 @@
 $email = $_POST['email'];
  
 $to = 'your@domain.com';
-$subject = 'You have new subscriber from Universo Landing Page!';
+$subject = 'You have new subscriber from S.A.T.I Landing Page!';
 
 $body = "";
 $body .= "Email: ";
