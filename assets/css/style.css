@@ -2471,6 +2471,10 @@ th.header:before {
   right: -80px;
   z-index: 0;
 }
+.navbar-brandnav{
+  width: auto;
+  height: auto;
+}
 .navigation-wrapper .primary-navigation-wrapper header nav {
   padding: 0;
   position: relative;
