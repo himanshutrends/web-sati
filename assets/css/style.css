@@ -1913,7 +1913,7 @@ ul.list-links a:hover {
   top: -2px;
 }
 
-th.headerSortUp {
+/* th.headerSortUp {
   position: relative;
   cursor: pointer;
 }
@@ -1986,7 +1986,7 @@ th.header:before {
   right: 10px;
   top: 12px;
   z-index: -10;
-}
+} */
 
 .tag {
   background-color: transparent;
@@ -4262,7 +4262,7 @@ label.error:before {
     font-size: 14px;
   }
 }
-@-moz-document url-prefix() {
+/* @-moz-document url-prefix() {
   th.headerSortUp:after {
     text-shadow: none;
     -webkit-font-smoothing: antialiased;
@@ -4320,4 +4320,4 @@ label.error:before {
     right: -15px;
     top: inherit;
   }
-}
+} */
