@@ -4270,6 +4270,9 @@ label.error:before {
     font-size: 14px;
   }
 }
+.row img {
+  width: auto;
+}
 @-moz-document url-prefix() {
   th.headerSortUp:after {
     text-shadow: none;
