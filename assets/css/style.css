@@ -1852,7 +1852,7 @@ ul.list-links a:hover {
 }
 
 .read-more {
-  color: #252525;
+  color: #171617;
   display: inline-block;
   font-size: 14px;
   font-weight: bold;
@@ -2476,9 +2476,9 @@ th.header:before {
   right: -80px;
   z-index: 0;
 }
-.navbar-brandnav{
-  width: auto;
-  height: auto;
+.navbar-brandnav img{
+  width: 450px;
+  height: 100px;
 }
 .navigation-wrapper .primary-navigation-wrapper header nav {
   padding: 0;
