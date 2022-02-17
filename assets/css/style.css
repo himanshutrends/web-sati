@@ -3166,6 +3166,8 @@ label.error:before {
 #page-footer {
   display: table-row;
   height: 1px;
+  display: flex;
+  flex-direction: column;
 }
 
 .page-sub-page .wrapper .primary-navigation-wrapper, .page-homepage-courses .wrapper .primary-navigation-wrapper, .page-homepage-events .wrapper .primary-navigation-wrapper {
