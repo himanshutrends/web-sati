@@ -7,7 +7,7 @@ nameofpost varchar(15),
 nameoforganization varchar(30),
 startingdate date,
 endingdate date,
-scate text,
+scale text,
 duration int,
 enclosureno bigint primary key
 );
